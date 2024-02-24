@@ -36,4 +36,4 @@
 | 선택한 게시글 삭제 | DELETE | /api/post/{id} | {'id':id,  <br>'password':password} | {'id':id} |
 
 # ERD
-[![image](https://raw.githubusercontent.com/Seungmi97/spring-lv1/bd5ea16d7b604f6fd6d39466b72cf578d775a995/ERD.svg)]
+![image](https://raw.githubusercontent.com/Seungmi97/spring-lv1/bd5ea16d7b604f6fd6d39466b72cf578d775a995/ERD.svg)
